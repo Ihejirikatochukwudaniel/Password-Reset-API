@@ -12,6 +12,10 @@ A production-ready FastAPI application for handling password reset functionality
 - SQLite database with SQLAlchemy ORM
 - Secure password hashing with bcrypt
 
+
+<img width="1366" height="721" alt="paasword reset swagger" src="https://github.com/user-attachments/assets/e9fc9e8a-04fe-4f6d-8498-b8df8a2dde15" />
+
+
 ## Project Structure
 
 ```
@@ -173,5 +177,6 @@ curl -X POST http://localhost:8000/api/auth/reset-password \
 7. Enable logging and monitoring
 
 ## License
+
 
 MIT
